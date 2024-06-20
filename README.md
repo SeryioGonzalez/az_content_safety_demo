@@ -1,5 +1,5 @@
 # Azure Content Safety demos
-Before running this file, we need an executable file named config.sh with the following content:
+Before running this file, we need an executable file named **config.sh** with the following content:
 
 ```
 AZURE_CONTENT_SAFETY_ENDPOINT="MY_CONTENT_SAFETY_ENDPOINT"
