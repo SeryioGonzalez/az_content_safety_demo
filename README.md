@@ -2,6 +2,7 @@
 Before running this file, we need an executable file named config.sh with the following content:
 
 ``
+
 AZURE_CONTENT_SAFETY_ENDPOINT="MY_CONTENT_SAFETY_ENDPOINT"
 AZURE_CONTENT_SAFETY_KEY="MY_CONTENT_SAFETY_KEY"
 AZURE_CONTENT_SAFETY_API_VERSION="2024-02-15-preview"
